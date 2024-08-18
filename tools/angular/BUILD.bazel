@@ -12,3 +12,17 @@ esbuild_config(
 )
 
 create_angular_bundle_targets()
+
+
+console.log("Hello World!");
+
+
+
+
+
+
+
+
+
+
+
